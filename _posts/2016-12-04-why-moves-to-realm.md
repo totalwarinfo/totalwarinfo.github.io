@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "왜 SQLite 에서 Realm 으로 옮겼는가?"
-author: steve
+author: albert.kim
 categories: [android]
 description: 안드로이드 팀이 Realm 으로 옮긴 이유를 공유하고자 합니다.
 tags: [android, realm, sqlite]
