@@ -1,0 +1,62 @@
+# Author details
+gyu:
+    name: "김봉규"
+    nickname: "Gyu"
+    email: "gyu@tosslab.com"
+    position: "iOS"
+    bio: "1호 개발자"
+jihoonk:
+    name: "김지훈"
+    nickname: "JiHoon"
+    email: "jihoonk@tosslab.com"
+    position: "Web"
+    bio: "웹을 하게 될 줄은 몰랐는데 하다보니까 재미있고 다른 플랫폼 가기도 귀찮고..."
+mk:
+    name: "최민기"
+    nickname: "MK"
+    email: "mk@tosslab.com"
+    position: "Back-end"
+    bio: "다양한 경험을 즐기며, 같은 실수를 반복하지 않기 위해 노력합니다.<br>회사 옥상에서 맥주와 함께 캐치볼 할 수 있는 날이 오길 기대합니다."
+    twitter: "akamk87"
+    github: "agileup"
+john:
+    name: "강준수"
+    nickname: "John"
+    email: "john@tosslab.com"
+    position: "Back-end"
+    bio: "일일신우일신(日日新又日新)"
+    twitter: "kangjoonsoo"
+    github: "kangjoonsoo"
+steve:
+    name: "정승욱" 
+    nickname: "Steve.Jung" 
+    email: "steve@tosslab.com" 
+    position: "Android" 
+    bio: "언제나 즐거운 개발을 할 수 있는 것에 항상 행복하고 즐거워 하고 있습니다. 풀스택 개발자가 되기 위해 언제나 노력하는 자세 잊지 않겠습니다."
+    blog: "https://medium.com/@jsuch2362"
+    facebook: "steve.SU.J"
+    github: "ZeroBrain"
+    isexist: 0
+hugo:
+    name: "강한구" 
+    nickname: "Hugo.Kang"
+    email: "hugo.kang@tosslab.com"
+    position: "Back-end" 
+    bio: "욕심을 줄이든지, 잠을 줄이든지"
+    twitter: "kgcrom"
+    github: "kgcrom"
+tony:
+    name: "박준선"
+    nickname: "Tony Park"
+    email: "tony.park@tosslab.com"
+    position: "Android"
+    bio: "코드 가꾸기 바빠 외모를 못 가꾸는 개발자..."
+    github: "tonyjs"
+    isexist: 0
+ali:
+    name: "이명훈"
+    nickname: "Ali Lee"
+    email: "ali.lee@tosslab.com"
+    position: "Back-end"
+    bio: "평생 코드 파먹고 살고 싶다.."
+    github: "tosslab-ali"
